@@ -1,0 +1,2 @@
+- Export vscode extension command (using PowerShell):
+code --list-extensions | % { "code --install-extension $_" }

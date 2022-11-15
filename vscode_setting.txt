@@ -13,9 +13,8 @@
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "editor.fontLigatures": true,
-  // "editor.mouseWheelZoom": true,
   "dart.enableSdkFormatter": false,
-  "editor.fontFamily": "'Fira Code Medium','Cascadia Code', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.fontFamily": "'Cascadia Code', 'Fira Code', 'monospace', monospace, 'Droid Sans Fallback'",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "editor.formatOnSave": true,
   "[javascript]": {
@@ -35,5 +34,9 @@
   "editor.cursorSmoothCaretAnimation": true,
   "editor.suggest.preview": true,
   "editor.wordWrap": "on",
-  "editor.minimap.maxColumn": 80
+  "editor.minimap.maxColumn": 80,
+  "editor.fontSize": 15,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none"
 }
